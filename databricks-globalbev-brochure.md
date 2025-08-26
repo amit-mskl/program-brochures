@@ -333,40 +333,18 @@ Learn data engineering within modern software development practices: Git workflo
 
 #### **Final Capstone Project**
 - **Week 6:** End-to-end GlobalBev data platform implementation
-- **Post-Program:** Portfolio review and job placement support
 
 ### **Weekly Commitment Breakdown**
 ```
-📚 Live Sessions:        3 hours/week (Tue, Thu, Sat)
-💻 Hands-on Labs:        8-10 hours/week  
-👥 Peer Collaboration:   2-3 hours/week
-📖 Self-Study:          2-4 hours/week
+📚 Live Sessions:        4 hours/week (Sat, Sun)
 ---
-Total Time Investment:   15-20 hours/week
+Total Time Investment:   8-10 hours/week
 ```
-
----
-
-## 🎯 **Career Transformation Outcomes**
-
-### **Advanced Analytics Platforms You'll Be Ready to Build**
-- **Senior Data Engineer** ($130k-190k) - Handle production data platforms at scale
-- **Data Platform Architect** ($160k-280k) - Design enterprise lakehouse solutions
-- **Principal Engineer** ($180k-350k) - Lead data engineering teams through similar challenges
-- **Data Engineering Consultant** ($120-250/hour) - Help other startups avoid GlobalBev's mistakes
-
-### **Real Projects You'll Tackle Post-Program**
-- **E-commerce platforms** processing millions of transactions with real-time inventory
-- **Financial risk engines** with regulatory compliance and audit requirements
-- **Healthcare data lakes** with HIPAA compliance and patient data protection
-- **IoT analytics platforms** processing sensor data from thousands of devices
 
 ---
 
 ## 🚀 **Ready to Solve GlobalBev's Challenges?**
 
 This isn't about completing assignments or passing quizzes. It's about developing the deep problem-solving skills that make exceptional data engineers.
-
-**You'll inherit real production problems. You'll feel the pressure of broken dashboards. You'll experience the satisfaction of fixing systems that business teams depend on.**
 
 *Join the next cohort and transform both GlobalBev's data platform and your own career.*
