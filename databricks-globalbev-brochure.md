@@ -231,7 +231,7 @@ This isn't a theoretical program—you'll step into GlobalBev's shoes and solve 
 
 ✅ **Secure sensitive data** → Implement column-level security that satisfies compliance requirements
 
-✅ **Pass Databricks certification** → With real experience, not just theoretical knowledge
+✅ **Build production portfolio** → With documented real-world solutions and architecture decisions
 
 ✅ **Most importantly: Architect solutions for problems you've never seen before**
 
@@ -324,16 +324,16 @@ Learn data engineering within modern software development practices: Git workflo
 **Skills Mastered:** Git workflows, CI/CD, automated testing, environment management
 **Milestone:** Production-ready deployment with zero-downtime updates
 
-### **Assessment & Certification Track**
+### **Assessment Track**
 
 #### **Continuous Assessment**
-- **Week 2:** Partial Mock Test 1 - Foundations & Architecture
-- **Week 4:** Partial Mock Test 2 - Performance & Streaming  
-- **Week 5:** Partial Mock Test 3 - Governance & Security
+- **Week 2:** Technical Assessment 1 - Foundations & Architecture
+- **Week 4:** Technical Assessment 2 - Performance & Streaming  
+- **Week 5:** Technical Assessment 3 - Governance & Security
 
-#### **Final Certification Phase**
-- **Week 6:** Three full-length certification mock exams
-- **Post-Program:** Official Databricks Data Engineer Associate Certification exam
+#### **Final Capstone Project**
+- **Week 6:** End-to-end GlobalBev data platform implementation
+- **Post-Program:** Portfolio review and job placement support
 
 ### **Weekly Commitment Breakdown**
 ```
