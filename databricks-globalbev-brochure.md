@@ -190,18 +190,6 @@ This isn't a theoretical program—you'll step into GlobalBev's shoes and solve 
 - **Healthcare:** Patient data integration, clinical analytics, HIPAA-compliant data lakes
 - **Manufacturing:** IoT sensor data processing, predictive maintenance, quality control systems
 
-### **Advanced Analytics Platforms**
-- **Self-service BI platforms** where business users can explore data without breaking anything
-- **Automated ML pipelines** that retrain models based on data drift detection
-- **Real-time operational dashboards** with alerts that actually matter to business operations
-- **Data marketplaces** for sharing and monetizing data products across business units
-
-### **Career Transformation Outcomes**
-- **Senior Data Engineer** at Fortune 500 companies ($130k-190k+) - solving problems similar to GlobalBev's at scale
-- **Data Platform Architect** designing lakehouse solutions ($160k-280k+) - building the next GlobalBev
-- **Principal Engineer** leading data engineering teams ($180k-350k+) - mentoring others through similar challenges  
-- **Data Engineering Consultant** ($120-250/hour) - helping other startups avoid GlobalBev's mistakes
-
 ---
 
 ## 🎯 **Your Learning Journey with GlobalBev**
