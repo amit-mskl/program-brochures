@@ -253,6 +253,116 @@ Learn data engineering within modern software development practices: Git workflo
 
 ---
 
+## 📅 **Program Timeline & Milestones**
+
+### **6-Week Intensive Journey**
+**Duration:** Full program spans 6 weeks | **Commitment:** 15-20 hours/week | **Format:** Cohort-based with live mentorship
+
+#### **Week 1: Foundation & Crisis Assessment (Days 1-7)**
+**GlobalBev Challenge:** *"Our systems are completely broken - where do we even start?"*
+
+**What You'll Solve:**
+- Set up Databricks workspace and connect to GlobalBev's data sources (PostgreSQL + ADLS)
+- Assess the current data chaos: inconsistent formats, missing values, broken pipelines
+- Implement secure credential management with Azure Key Vault
+
+**Skills Mastered:** PySpark fundamentals, Databricks platform navigation, data ingestion patterns
+**Milestone:** Successfully ingest GlobalBev's messy data from all sources without breaking
+
+#### **Week 2: Architecture & Data Foundation (Days 8-14)**
+**GlobalBev Challenge:** *"We need a scalable architecture that won't fall apart as we grow"*
+
+**What You'll Solve:**
+- Design and implement Medallion Architecture (Bronze → Silver → Gold)
+- Build the Bronze layer with proper schema evolution handling
+- Clean and standardize data quality in the Silver layer (phone numbers, addresses, dates)
+
+**Skills Mastered:** Delta Lake operations, Medallion architecture, data cleaning, schema evolution
+**Milestone:** Robust data foundation that handles schema changes gracefully
+
+#### **Week 3: Performance & Scale Optimization (Days 15-21)**
+**GlobalBev Challenge:** *"Our queries take 3 hours - the CEO wants reports in 10 minutes"*
+
+**What You'll Solve:**
+- Optimize file sizes using OPTIMIZE and Z-ORDER commands
+- Implement broadcast joins and intelligent caching strategies
+- Configure clusters to eliminate memory spills and reduce costs by 60%
+
+**Skills Mastered:** Performance tuning, query optimization, cluster configuration, cost management
+**Milestone:** 20GB datasets processing in under 10 minutes with 60% cost reduction
+
+#### **Week 4: Real-Time & Streaming (Days 22-28)**
+**GlobalBev Challenge:** *"Our inventory API is unreliable - we need real-time alerts for stockouts"*
+
+**What You'll Solve:**
+- Build fault-tolerant streaming pipelines with Databricks Autoloader
+- Implement retry logic and circuit breakers for unreliable APIs
+- Create Delta Live Tables for real-time inventory monitoring
+
+**Skills Mastered:** Structured Streaming, Autoloader, Delta Live Tables, fault tolerance
+**Milestone:** Real-time inventory alerts within 5 minutes of API updates
+
+#### **Week 5: Governance & Security (Days 29-35)**
+**GlobalBev Challenge:** *"Compliance needs audit trails and teams need different data access levels"*
+
+**What You'll Solve:**
+- Implement Unity Catalog for comprehensive data governance
+- Set up dynamic data masking and column-level security for PII
+- Create role-based access control for different business teams
+
+**Skills Mastered:** Unity Catalog, data governance, security policies, compliance automation
+**Milestone:** Enterprise-grade security and governance that passes compliance audits
+
+#### **Week 6: DevOps & Production Deployment (Days 36-42)**
+**GlobalBev Challenge:** *"We need to deploy reliably across dev/test/prod without breaking production"*
+
+**What You'll Solve:**
+- Implement GitOps workflows with proper branching strategies
+- Set up CI/CD pipelines with pre-commit hooks and automated testing
+- Deploy the complete solution across multiple environments
+
+**Skills Mastered:** Git workflows, CI/CD, automated testing, environment management
+**Milestone:** Production-ready deployment with zero-downtime updates
+
+### **Assessment & Certification Track**
+
+#### **Continuous Assessment**
+- **Week 2:** Partial Mock Test 1 - Foundations & Architecture
+- **Week 4:** Partial Mock Test 2 - Performance & Streaming  
+- **Week 5:** Partial Mock Test 3 - Governance & Security
+
+#### **Final Certification Phase**
+- **Week 6:** Three full-length certification mock exams
+- **Post-Program:** Official Databricks Data Engineer Associate Certification exam
+
+### **Weekly Commitment Breakdown**
+```
+📚 Live Sessions:        3 hours/week (Tue, Thu, Sat)
+💻 Hands-on Labs:        8-10 hours/week  
+👥 Peer Collaboration:   2-3 hours/week
+📖 Self-Study:          2-4 hours/week
+---
+Total Time Investment:   15-20 hours/week
+```
+
+---
+
+## 🎯 **Career Transformation Outcomes**
+
+### **Advanced Analytics Platforms You'll Be Ready to Build**
+- **Senior Data Engineer** ($130k-190k) - Handle production data platforms at scale
+- **Data Platform Architect** ($160k-280k) - Design enterprise lakehouse solutions
+- **Principal Engineer** ($180k-350k) - Lead data engineering teams through similar challenges
+- **Data Engineering Consultant** ($120-250/hour) - Help other startups avoid GlobalBev's mistakes
+
+### **Real Projects You'll Tackle Post-Program**
+- **E-commerce platforms** processing millions of transactions with real-time inventory
+- **Financial risk engines** with regulatory compliance and audit requirements
+- **Healthcare data lakes** with HIPAA compliance and patient data protection
+- **IoT analytics platforms** processing sensor data from thousands of devices
+
+---
+
 ## 🚀 **Ready to Solve GlobalBev's Challenges?**
 
 This isn't about completing assignments or passing quizzes. It's about developing the deep problem-solving skills that make exceptional data engineers.
